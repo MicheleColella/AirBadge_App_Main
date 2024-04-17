@@ -1,0 +1,3 @@
+<h1 align="center">AirBadge replica</h1>
+
+<p>This code represents an educational replica of an application originally developed as part of the Apple Developer program, which was designed to track and record hours of attendance. It is important to note that the purpose of this replicated code is not to imitate or take away value from the original idea of the application, but rather to provide an educational example to illustrate specific programming techniques and methodologies. This version was developed solely for educational purposes, allowing students and emerging developers to better understand how such applications work and how they can be implemented through the use of standard programming practices.</p>
